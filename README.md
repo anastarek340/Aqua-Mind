@@ -82,6 +82,7 @@ AquaMind transforms awareness into action through an engaging digital experience
 
 ## 👥 Team
 
+* Anas Tarek
 * Omar Khaled
 * Mohamed Maher
 * Moataz Amir
